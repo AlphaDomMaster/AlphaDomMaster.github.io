@@ -1,0 +1,9 @@
+HypnoApp (referred to as the "Application" - both the mobile application and website) and its creators will not be held liable for any manner in which the Application is used. Use at your own risk. The creator of this app does not endorse usage of the Application for any medical treatment and is purely for entertainment only. The usage of the Application shall comply with all applicable laws and regulations in the used territories and shall not be used in locales where it does not apply to those laws.
+
+The Application does not collect any data on the user, however several plugins are used throughout the Application. The creator of the Application to the best of his knowledge will attempt to maintain an accurate policy, but this policy may change as new features may be added.
+
+The Application will not guarantee that the Application will continue to work or begin working on any mobile device.
+
+All licenses related to components of the Application shall be in effect as required by law and only to that extent.
+
+By selecting "Agree", you hereby accept all these terms and conditions for the Application. If you do not agree to these terms and conditions you will not use the application and are required to exit and remove the Application from your device if applicable.
